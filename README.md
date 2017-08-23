@@ -2,4 +2,4 @@
 npm install
 
 # Start
-sh ./src/exec_json-server.sh
+sh ./src/static/exec_json-server.sh
