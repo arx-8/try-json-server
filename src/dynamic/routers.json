@@ -1,0 +1,4 @@
+{
+  "/rewritable": "/posts",
+  "/accounts/:ACCOUNT_ID/comments/search": "/comments"
+}
